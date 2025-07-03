@@ -112,9 +112,9 @@ Authorization: Bearer (auth token)
 
 ✔️ Fully functional MVP  
 🔒 Future improvements:
-- SQLite or file-based user storage  
+- SQLite or some sort of permanent data storage 
 - Token refresh & blacklist (logout)  
-- Frontend or Postman collection
+- Frontend for sure
 
 ---
 
